@@ -6,7 +6,7 @@ Vấn đề: Xem những buổi ít tiết/khoảng trống trên lịch học l
 nghỉ hoàn toàn, không dùng để tự học.
 
 Cách khắc phục: Chủ động lập thời gian biểu, dành một phần các khoảng
-trống (ví dụ 30--45 phút) để đọc tài liệu hoặc ôn lại bài đã học, thay
+trống (ví dụ 30-45 phút) để đọc tài liệu hoặc ôn lại bài đã học, thay
 vì để trống hoàn toàn.
 
 **Vấn đề 2**
@@ -14,7 +14,7 @@ vì để trống hoàn toàn.
 Vấn đề: Không đọc tài liệu trên LMS trước khi lên lớp, chỉ định để gần
 kỳ kiểm tra mới xem.
 
-Cách khắc phục: Đọc lướt tài liệu trước mỗi buổi học 1--2 ngày, ghi lại
+Cách khắc phục: Đọc lướt tài liệu trước mỗi buổi học 1-2 ngày, ghi lại
 ý chính và những điểm chưa hiểu để chuẩn bị tham gia thảo luận trên lớp.
 
 **Vấn đề 3**
@@ -33,20 +33,20 @@ Cornell Notes (ghi chép Cornell).**
 
 **Cách thực hiện cụ thể**
 
-> 1\. Đọc lướt chiến lược: Trước khi đọc chi tiết, tôi xem qua tiêu đề,
-> các đề mục, từ khóa in đậm và phần tóm tắt (nếu có) của bài đọc để dự
-> đoán nội dung chính và mục tiêu của tài liệu.
->
-> 2\. Đặt câu hỏi trước khi đọc: Dựa trên các đề mục vừa lướt qua, tôi
-> đặt ra 2--3 câu hỏi mà tôi kỳ vọng bài đọc sẽ trả lời, giúp việc đọc
-> sau đó có mục đích rõ ràng hơn.
->
-> 3\. Ghi chép theo mô hình Cornell: Tôi chia trang ghi chú thành 2 cột
-> --- cột chính ghi lại các ý quan trọng, ví dụ, số liệu; cột phụ (bên
-> trái) ghi từ khóa, câu hỏi gợi nhớ hoặc phần tôi chưa hiểu rõ.
->
-> 4\. Tóm tắt cuối trang: Sau khi đọc xong, tôi viết 2--3 câu tóm tắt
-> nội dung chính bằng lời của mình ở cuối trang Cornell.
+1. Đọc lướt chiến lược: Trước khi đọc chi tiết, tôi xem qua tiêu đề,
+ các đề mục, từ khóa in đậm và phần tóm tắt (nếu có) của bài đọc để dự
+ đoán nội dung chính và mục tiêu của tài liệu.
+
+2. Đặt câu hỏi trước khi đọc: Dựa trên các đề mục vừa lướt qua, tôi
+đặt ra 2-3 câu hỏi mà tôi kỳ vọng bài đọc sẽ trả lời, giúp việc đọc
+sau đó có mục đích rõ ràng hơn.
+
+3. Ghi chép theo mô hình Cornell: Tôi chia trang ghi chú thành 2 cột
+,cột chính ghi lại các ý quan trọng, ví dụ, số liệu; cột phụ (bên
+ trái) ghi từ khóa, câu hỏi gợi nhớ hoặc phần tôi chưa hiểu rõ.
+
+4. Tóm tắt cuối trang: Sau khi đọc xong, tôi viết 2-3 câu tóm tắt
+nội dung chính bằng lời của mình ở cuối trang Cornell.
 
 **Tính phù hợp với tình huống**
 
@@ -59,10 +59,10 @@ tiếp cho phần thảo luận mà giảng viên yêu cầu --- thay vì chỉ 
 
 **Trước buổi học**
 
-1.  Đọc lướt tài liệu trên LMS trước 1--2 ngày bằng kỹ thuật Strategic
+1.  Đọc lướt tài liệu trên LMS trước 1-2 ngày bằng kỹ thuật Strategic
     Skimming: xem tiêu đề, đề mục, từ khóa để nắm nội dung tổng quát.
 
-2.  Ghi ra 1--2 câu hỏi hoặc phần chưa hiểu để mang lên lớp trao đổi
+2.  Ghi ra 1-2 câu hỏi hoặc phần chưa hiểu để mang lên lớp trao đổi
     cùng giảng viên và bạn học.
 
 **Trong buổi học**
