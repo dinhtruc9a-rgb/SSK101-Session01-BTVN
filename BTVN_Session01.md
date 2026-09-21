@@ -1,5 +1,3 @@
-**BÀI TẬP VỀ NHÀ**
-
 **NHIỆM VỤ 1: Nhận diện vấn đề và đề xuất giải pháp**
 
 **Vấn đề 1**
